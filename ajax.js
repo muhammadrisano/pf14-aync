@@ -37,4 +37,4 @@ getDataPost('GET', 'https://jsonplaceholder.typicode.com/posts')
     
 })
 // 1. ubah proses diatas menggunakan promise dan tampilkan semua title 
-// 2. upah proses diatas menggunakan callback dan tampilkan semua title (optional)
+// 2. ubah proses diatas menggunakan callback dan tampilkan semua title (optional)
